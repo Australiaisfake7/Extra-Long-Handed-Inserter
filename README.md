@@ -1,2 +1,8 @@
 # Extra-Long-Handed-Inserter
-A simple Factorio utility mod aimed at simplifying logistics.
+![thumbnail](thumbnail.png)
+A well integrated Factorio utility mod aimed at simplifying logistics.
+
+# Features:
+* Three tile reach: Picks up and places three tiles away, perfect for three belt input.
+* Fully integrated: Complete with custom sprites, standart inserter interactions sounds, and full circuit network support.
+* High performance: Built on vanilla inserter logic, wont tank UPS.
