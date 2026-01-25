@@ -1,5 +1,6 @@
 # Extra-Long-Handed-Inserter
 ![thumbnail](thumbnail.png)
+
 A well integrated Factorio utility mod aimed at simplifying logistics.
 
 # Features:
