@@ -1,0 +1,9 @@
+{
+    "name": "extra-long-handed-inserter",
+    "version": "0.3.0",
+    "title": "Extra Long Handed Inserter",
+    "author": "AustraliaIsFake7",
+    "factorio_version": "2.0",
+    "dependincies": [ "base >= 2.0" ],
+    "description": "A long handed inserter with 3 tile reach."
+}
